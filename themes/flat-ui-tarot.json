@@ -28,7 +28,7 @@
     "editor.selectionHighlightBackground": "#ffcc0020",
     "editorBracketMatch.background": "#1e1e1e",
     "editorBracketMatch.border": "#ffcc0050",
-    "editorCursor.foreground": "#ffcc00",
+    "editorCursor.foreground": "#aeafad",
     "editorError.foreground": "#ff537070",
     "editorGroup.border": "#00000030",
     "editorGroupHeader.tabsBackground": "#1e1e1e",
